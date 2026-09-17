@@ -31,3 +31,8 @@ dbt Data Quality Tests
 Analytics Models
       ↓
 Power BI
+
+
+
+
+<img width="1906" height="988" alt="image" src="https://github.com/user-attachments/assets/6d7175cc-bce7-4f4c-8c00-e0947f514dc1" />
