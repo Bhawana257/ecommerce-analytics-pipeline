@@ -1,5 +1,7 @@
 #  E-Commerce Analytics Pipeline
 
+<img width="1906" height="988" alt="image" src="https://github.com/user-attachments/assets/6d7175cc-bce7-4f4c-8c00-e0947f514dc1" />
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
 ![dbt](https://img.shields.io/badge/dbt-1.12-orange?logo=dbt)
@@ -35,4 +37,4 @@ Power BI
 
 
 
-<img width="1906" height="988" alt="image" src="https://github.com/user-attachments/assets/6d7175cc-bce7-4f4c-8c00-e0947f514dc1" />
+
