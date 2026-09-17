@@ -1,0 +1,5 @@
+services:
+  airflow-worker:
+    volumes:
+      - ..:/opt/project
+      - ${USERPROFILE}/.dbt:/home/airflow/.dbt

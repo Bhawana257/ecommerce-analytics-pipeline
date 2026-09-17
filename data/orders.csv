@@ -1,0 +1,16 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,region,status
+1001,2026-09-01,C001,Laptop,Electronics,2,850,East,Completed
+1002,2026-09-01,C002,Mouse,Electronics,5,25,West,Completed
+1003,2026-09-02,C003,Keyboard,Electronics,3,45,East,Completed
+1004,2026-09-02,C004,Chair,Furniture,2,120,South,Completed
+1005,2026-09-03,C005,Desk,Furniture,1,300,West,Completed
+1006,2026-09-03,C006,Monitor,Electronics,2,250,North,Completed
+1007,2026-09-04,C007,Mouse,Electronics,10,25,South,Completed
+1008,2026-09-04,C008,Laptop,Electronics,1,850,North,Completed
+1009,2026-09-05,C009,Desk,Furniture,2,300,East,Completed
+1010,2026-09-05,C010,Chair,Furniture,4,120,West,Completed
+1011,2026-09-06,C011,Keyboard,Electronics,2,45,South,Completed
+1012,2026-09-06,C012,Monitor,Electronics,3,250,North,Completed
+1013,2026-09-07,C013,Laptop,Electronics,2,850,East,Completed
+1014,2026-09-07,C014,Chair,Furniture,3,120,West,Cancelled
+1015,2026-09-08,C015,Monitor,Electronics,2,250,North,Completed
